@@ -4,14 +4,18 @@
 
 **Time**: Monday 6:00pm - 8:50pm
 
+
 **Location**: BSB-118
 
+
 **Office Hours**: 5:00-6:00 pm, Mondays before class in BSB 118 or by appointment in Armitage 314
+
 
 ### Instructor Information
 
 **Name**: *Mauro Sanchirico*
 **Email**: ms3978@rutgers.edu
+
 
 ## Course Description
 
@@ -35,11 +39,11 @@ The semester will use the following grading scheme.
 * 1 midterm examination: 20%
 * 1 final project: 20%
 
-Assignments and quizzes cannot be made up if missed, with exceptions given only on a case-by-case basic. If you have a personal issue and need an extension, please email me at ms3978@rutgers.edu.
+Assignments and quizzes cannot be made up if missed. Exceptions are given only on a case-by-case basis. If you have a personal issue and need an extension, please email me at ms3978@rutgers.edu.
 
 #### Final Grades
 
-Letter grades are assigned as follows:
+Letter grades are assigned as follows.
 
 * `89.5 - 100.0` = `A`
 * `86.5 - 89.49` = `B+`
@@ -55,23 +59,91 @@ There will be a handful of opportunities for extra credit, potentially to includ
 
 ### Course Outline
 
-Our week-to-week is organized as follows, though it is subject to change depending on class pace. Below `A#` refers to when assignments are given and `Q#` refers to when quizzes are given:
+Key dates for this semester are as follows.
 
-* **09/11**: Course Introduction, Course Tools, Basic Python Programming, `Jupyter`
-* **09/18**: More Python Programming (A1)
-* **09/25**: Introduction to `NumPy`, `pandas` (Q1)
-* **10/02**: More on `NumPy` and `pandas` (A2, Q2)
-* **10/09**: Loading and cleaning data (Q3)
-* **10/16**: Transforming and aggregating data, basic visualizations (A3, Q4)
-* **10/23**: Visualizing data with `holoviews`, Midterm
-* **10/30**: More on `holoviews`, plot types, basics (A4)
-* **11/06**: ~~Composing elements~~ (Q5)
-* **11/13**: Variate Data, Correlation, Fitting (A5, Q6)
-* **11/20**: Interactive Visualization (Q7)
-* **11/27**: Geographic Data Visualization (A6, Q8)
-* **12/04**: Brotherly Shove (A7, Q9)
-* **12/11**: Real-time Data Streaming (Q10)
-* **12/18**: Final Projects Due
+* **01/22**: First day of class (introduction and tutorials)
+* **03/09**: Spring break begins
+* **03/17**: Spring break ends
+* **04/30**: Reading period begins (extra office hours)
+* **05/01**: Reading period ends
+* **05/02**: Exam period begins
+* **05/08**: Exam period ends (final project due)
+
+Our week-to-week is organized as follows, though it is subject to change depending on class pace. Assignments and quizzes will always be announced at least one week in advance. Special topics of interest to the class will be prioritized towards the end of the semester.
+
+* **01/22**: Course Introduction, Course Tools, Basic Python Programming, `Jupyter`
+* **01/29**: More Python Programming
+* **02/05**: Review of State of the Art in Data Visualization, Introduction to `NumPy`, `pandas`
+* **02/12**: Continued Review of State of the Art in Data Visualization, More on `NumPy` and `pandas`
+* **02/19**: Software Hygiene, Loading and Cleaning data
+* **02/26**: Transforming and Aggregating Data, Basic Visualizations
+* **03/04**: Special Topic I, Midterm
+* **Spring Break**
+* **03/18**: Correlation, Fitting, and Mutual Information
+* **03/25**: Interactive Visualization
+* **04/01**: Geographic Data Visualization
+* **04/08**: Special Topic II
+* **04/15**: AI Aided Data Visualization (AI for Visualization)
+* **04/22**: Visualization of AI Models and Results, Understanding the Origins of Generative AI (Visualization of AI)
+* **04/29**: Special Topic III and Final Project Discussion
+
+### Candidate Special Topics
+
+The following candidate special topics will be covered depending on student interests and class pace. Suggestions are welcome!
+
+**Overviews:**
+* Data Visualization Literature
+* Practical Data Visualization Considerations
+* Additional Tools
+* Software Hygiene and Best Practices
+
+**Data and Operations:**
+* Additional Data Transforms
+* Additional Fitting Methods
+
+**Mathematical Objects:**
+* Visualization of Real and Complex Data
+* Visualization of Statistical Data
+
+**Visualization of Series Data:**
+* Financial Data
+* Time Series and Trajectories
+* State Spaces
+
+**Additional Relational Data Types:**
+* Geopolitical Data
+* Textual Data
+* Visualization of Software
+
+**Sensor Data:**
+* Imagery and Video
+* Radio Frequency Data
+* Radar Data
+
+**High Dimensional Data:**
+* Area
+* Markers
+* Addressing
+* Metric Design and Feature Engineering
+
+**AI Aided Data Visualization:**
+* Supervised ML for Data Interpolation
+* Supervised ML for Data Pattern Recognition
+* Unsupervised ML for Feature Discovery
+* Large Language Models and Visual Question Answering
+
+**Visualization of AI Results and Models:**
+* Visualization of Basic ML Results
+* Visualization of ML Input Attributions
+* Visualization of ML Models
+* Generative AI
+
+## Course Text and References
+This course will often reference Edward Tufte's classic test The Visual Display of Quantitative Information. While reading this text is not required, it is a classic canonical reference and is highly recommended reading. Special topics will be taught from recent and classic literature, and these references will be distributed throughout the semester.
+
+## Acknowledgements
+
+Nick Sanchirico taught this course in previous semesters and is owed tremendous credit and thanks for developing many of the materials and tools which this semester's work will be built from.
 
 ## Ethical Use of AI Technologies and Large Language Models
 
