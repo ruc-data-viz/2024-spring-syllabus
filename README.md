@@ -5,10 +5,17 @@
 **Time**: Monday 6:00pm - 8:50pm
 
 
-**Location**: BSB-118
+**Location**: BSB-134
+
+Please note: this class was originally scheduled for BSB-118. The course has since been moved to BSB-134. **BSB-134 is the new official location of this class.**
 
 
-**Office Hours**: 5:00-6:00 pm, Mondays before class in BSB 118 or by appointment in Armitage 314
+**Office Hours**: 5:00-6:00 pm, Mondays before class in BSB-134 or by appointment in Armitage 314
+
+
+### Computer Use
+
+This is a hands on, coding-heavy course. Bringing your own computer is highly recommended when possible. If you do not have your own computer, you may use one of the computers in BSB-134.
 
 
 ### Instructor Information
