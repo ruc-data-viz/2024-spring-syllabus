@@ -26,6 +26,11 @@ This is a hands on, coding-heavy course. Bringing your own computer is highly re
 **Email**: ms3978@rutgers.edu
 
 
+### Where to Find this Syllabus
+
+The latest copy of this syllabus is always available online at [https://github.com/ruc-data-viz/2024-spring-syllabus](https://github.com/ruc-data-viz/2024-spring-syllabus). If you are referencing a hard copy of it be sure to check that link for the latest version.
+
+
 ## Course Description
 
 This is a one-semester introduction to data management and visualization techniques. While there will be a large focus on the visualization of data, data is rarely ever ready for that. This necessarily means that we also learn how to effectively transform our data. Further, visualization of data in the sciences requires an understanding of the types of data being visualized, the sensors or processes which collected the data, the dimensionality of the data, as well as the characteristics of the important information and any noise that may be present. These practical data visualization issues will also be covered. Depending on student interest, a number of special topics from industry and recent state of the art literature will be covered.
