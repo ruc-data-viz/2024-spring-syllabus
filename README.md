@@ -13,6 +13,9 @@ Please note: this class was originally scheduled for BSB-118. The course has sin
 **Office Hours**: 5:00-6:00 pm, Mondays before class in BSB-134 or by appointment in Armitage 314
 
 
+**GitHub Classroom**: [https://classroom.github.com/classrooms/89405859-ruc-data-viz-spring-2024](https://classroom.github.com/classrooms/89405859-ruc-data-viz-spring-2024)
+
+
 ### Computer Use
 
 This is a hands on, coding-heavy course. Bringing your own computer is highly recommended when possible. If you do not have your own computer, you may use one of the computers in BSB-134.
@@ -30,7 +33,6 @@ This is a hands on, coding-heavy course. Bringing your own computer is highly re
 
 The latest copy of this syllabus is always available online at [https://github.com/ruc-data-viz/2024-spring-syllabus](https://github.com/ruc-data-viz/2024-spring-syllabus). If you are referencing a hard copy of it be sure to check that link for the latest version.
 
-
 ## Course Description
 
 This is a one-semester introduction to data management and visualization techniques. While there will be a large focus on the visualization of data, data is rarely ever ready for that. This necessarily means that we also learn how to effectively transform our data. Further, visualization of data in the sciences requires an understanding of the types of data being visualized, the sensors or processes which collected the data, the dimensionality of the data, as well as the characteristics of the important information and any noise that may be present. These practical data visualization issues will also be covered. Depending on student interest, a number of special topics from industry and recent state of the art literature will be covered.
@@ -43,6 +45,14 @@ This is a one-semester introduction to data management and visualization techniq
 ### Prerequisite Knowledge
 
 Students should be comfortable with basic computer programming concepts and undergraduate level mathematics. While students are not expected to be Python experts, they are expected to be able to pick up the necessary skills for this course. *This is a hands-on, coding heavy course*. Mathematically, students should be well versed in the basics for algebra, linear algebra, and more. Familiarity with calculus and differential equations will aid in understanding of some techniques, but in depth knowledge of calculus will not be evaluated in this course. A background in machine learning is not required. Machine learning topics will range from basic to recent state of the art publications, depending on student interests.
+
+### Class Resources
+
+Several guides are provided to help students with the course.
+
+* **Setting up a development environment**: [https://github.com/ruc-data-viz/development-environment-setup](https://github.com/ruc-data-viz/development-environment-setup)
+* **Using GitHub codespaces**: [https://github.com/ruc-data-viz/codespaces-tutorial](https://github.com/ruc-data-viz/codespaces-tutorial)
+* **Starting and completing assignments**: [https://github.com/ruc-data-viz/assignment-tutorial](https://github.com/ruc-data-viz/assignment-tutorial)
 
 ### Grading Policy
 
